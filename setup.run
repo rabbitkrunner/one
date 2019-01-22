@@ -1,3 +1,4 @@
 cd ~
 mkdir /home/user/githome
 cd /home/user/githome
+git clone https://github.com/rabbitkrunner/rbnt
